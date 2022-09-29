@@ -19,7 +19,7 @@
   --sn-component-outer-border-color: transparent;
   --sn-component-inner-border-color: var(--highlight-color);
   
-  // StyleKit Vars
+  /* StyleKit Vars */
   --sn-stylekit-info-color: var(--highlight-color);
   --sn-stylekit-info-contrast-color: var(--foreground-color);
 
@@ -73,4 +73,5 @@
   --sn-stylekit-passive-color-3: #45403d;
   --sn-stylekit-passive-color-4: #32302f;
   --sn-stylekit-passive-color-4-opacity-variant: #a9b6653d;
+  --sn-stylekit-info-color
 }

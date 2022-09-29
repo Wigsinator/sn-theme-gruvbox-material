@@ -3,10 +3,10 @@
   "name": "Gruvbox Material",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "v1.2",
+  "version": "v2.0",
   "description": "Sainnhe's gruvbox material dark theme for Standard Notes.",
-  "url": "https://cdn.jsdelivr.net/gh/wigsinator/sn-theme-gruvbox-material@v1.2/src/main.css",
-  "download_url": "https://github.com/wigsinator/sn-theme-gruvbox-material/archive/refs/tags/v1.2.zip",
+  "url": "https://raw.githubusercontent.com/Wigsinator/sn-theme-gruvbox-material/v2.0/src/main.css",
+  "download_url": "https://github.com/wigsinator/sn-theme-gruvbox-material/archive/refs/tags/v2.0.zip",
   "marketing_url": "https://github.com/wigsinator/sn-theme-gruvbox-material",
   "latest_url": "https://raw.githubusercontent.com/Wigsinator/sn-theme-gruvbox-material/main/package.json",
   "dock_icon": {
